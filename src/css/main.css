@@ -26,3 +26,15 @@ li{
 .logo {
     max-width: 3rem;
 }
+
+@media screen and (min-width: 50em){
+    .flex {
+        display: flex;
+        gap: 1rem;
+    }
+
+    .flex > * {
+        flex-grow: 1;
+        width: 100%;
+    }
+}
