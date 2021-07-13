@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+main, header section {
+    margin: 1rem;
+}
+
+img {
+    width: 100%;
+}
+
+figure {
+    margin: 0;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+li{
+    margin-bottom: 1rem;
+}
+.logo {
+    max-width: 3rem;
+}
